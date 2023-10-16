@@ -186,11 +186,6 @@ hash = "b38a7635f23e55121ed6bd111503fa80f7149e3e80001781102ecc62a0cae97a"
 metafile = true
 
 [[files]]
-file = "mods/huskhomes.pw.toml"
-hash = "fdfd848f5fd1c21049f191cbf0c9e26a2a87d70c2724a2a78ebd1bd87d69c9fa"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a4d47f10df4769734a850e6a2cd7342802f92f5e269b27464c86cfd0b5a2182f"
 metafile = true
