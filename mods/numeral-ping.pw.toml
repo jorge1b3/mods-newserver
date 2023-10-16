@@ -1,0 +1,18 @@
+name = "Numeral Ping"
+filename = "numeralping-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XLd8Sh64/versions/W2er4vCn/numeralping-1.2.1.jar"
+hash-format = "sha1"
+hash = "dd7f21de0406ece8be23f011f206c8e5a7d9b088"
+
+[option]
+optional = true
+default = true
+description = "Cambia las barras de ping por su valor numérico"
+
+[update]
+[update.modrinth]
+mod-id = "XLd8Sh64"
+version = "W2er4vCn"

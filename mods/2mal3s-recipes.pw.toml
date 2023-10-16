@@ -1,0 +1,13 @@
+name = "2mal3's Recipes"
+filename = "2mal3s-recipes-v1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hIlFLwrl/versions/7pkWbKgV/2mal3s-recipes-v1.9.0.jar"
+hash-format = "sha1"
+hash = "59e910b8c12501a75f1e8581f979f018d19adf73"
+
+[update]
+[update.modrinth]
+mod-id = "hIlFLwrl"
+version = "7pkWbKgV"
