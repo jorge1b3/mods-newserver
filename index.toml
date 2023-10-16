@@ -161,6 +161,11 @@ hash = "9241dfaffb6654e3e6274b7b2874b346c4195a2300b72fee49af0a9e5d48c2d6"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "b877e1471ac8eb9933a9c8c2529748b5a2ab05e63eaf564f63624288a18c3429"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "93ed5e4493f07f0a9eaaecf2642b897fcc5af6e9644f83a75f30b7a060f5717c"
 metafile = true
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
+hash = "84a6342a36cbdbf12c0fd44856243eb92e14828c917a6aa3bff3ed90012c5c5a"
 metafile = true
 
 [[files]]
@@ -343,6 +348,16 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "2bd844212f5ffb5095baca0b6c27070114e4911a8699a487f99d7ffb015f780b"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "fe7a52361e006457d4606a79ab019031a52cf6e0ea5e4e31081c3616c12af6f2"
+metafile = true
+
+[[files]]
+file = "mods/pingspam.pw.toml"
+hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
 metafile = true
 
 [[files]]
