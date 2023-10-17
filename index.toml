@@ -61,6 +61,11 @@ hash = "3c5b0d3ebfef4b6887e537505f648dbbf4c63da91ebbb724ae5cdb2854ad9308"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "90745999262576c91d5f22493d03193ba807ee00558a8d19b50873d97d732ab6"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "82a31265d90c885eadccd59c2a35ef795fd526865091243933d52717ef1db4be"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "14c68b75250d6a767d594c51c43f861ff770590afba8fd6ca01bcaeeb9ad8d9c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
 metafile = true
 
 [[files]]
