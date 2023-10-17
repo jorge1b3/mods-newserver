@@ -21,6 +21,11 @@ hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "ead86ab1bacf74c7ad2d28c11157c2982fab4d15d2c25158e77b7491eff3d983"
 metafile = true
@@ -381,6 +386,11 @@ hash = "16d6e1de0555012ce395ef28bc100932cee09f17c8fa6fb1006b3625869dd6f7"
 metafile = true
 
 [[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -411,6 +421,11 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "e141a548d9f9332997aad1e17ff6c501fd540d77549fe8673bf9e3c22881da29"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
@@ -423,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/qu-enchantments.pw.toml"
 hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
+metafile = true
+
+[[files]]
+file = "mods/recipe-book-delight.pw.toml"
+hash = "e27debdf506bd96a4d44bda0306f5a3fbe337a1c3564cc180fb3266c2ef3333f"
 metafile = true
 
 [[files]]
@@ -472,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f47a9cbdafa0975f892d7540450400908f44ced801c76082817ecad533b8a8a8"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
@@ -523,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "c105c4c53a8eb29673906b56bcf76f6ac154224f5872b9e84f1c550f7607551f"
 metafile = true
 
 [[files]]

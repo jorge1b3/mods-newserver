@@ -1,0 +1,13 @@
+name = "Veinminer"
+filename = "veinminer-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OhduvhIc/versions/zLG84ILY/veinminer-1.1.0.jar"
+hash-format = "sha1"
+hash = "dbdea976fe36088e26800df579b6519a739d7c08"
+
+[update]
+[update.modrinth]
+mod-id = "OhduvhIc"
+version = "zLG84ILY"
