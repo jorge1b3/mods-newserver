@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+hash = "ced0b640db8d72808c59569bfa3594cf53ce9b80c2a1c5b67b3b1076d2f20676"
 metafile = true
 
 [[files]]
@@ -278,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "b38a7635f23e55121ed6bd111503fa80f7149e3e80001781102ecc62a0cae97a"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b5f2f300fc3256a0ddfa80a06d43ef3282484a1fdf2e8b9edf05ebf4ab85da28"
 metafile = true
 
 [[files]]
