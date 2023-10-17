@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/1IjD5062/versions/Z9FJWLMt/continuity-3.0.0
 hash-format = "sha1"
 hash = "b662fd625ba1f06c6e4958eac373856047d0d2a9"
 
+[option]
+optional = true
+default = false
+description = "Añade texturas conectadas a minecraft"
+
 [update]
 [update.modrinth]
 mod-id = "1IjD5062"
