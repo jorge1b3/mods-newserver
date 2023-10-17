@@ -111,11 +111,6 @@ hash = "b5cbeba3c57ee92a486927aefd6c2f50a66281e739f0fcc90d4662e6fb541c14"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "ced0b640db8d72808c59569bfa3594cf53ce9b80c2a1c5b67b3b1076d2f20676"
 metafile = true
