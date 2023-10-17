@@ -26,6 +26,11 @@ hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "ead86ab1bacf74c7ad2d28c11157c2982fab4d15d2c25158e77b7491eff3d983"
 metafile = true
@@ -506,6 +511,11 @@ hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat-radio.pw.toml"
+hash = "f2e538d44912ed4d42c1f8664cabe9c2de3b46aea305188d2f428127fe9bf56d"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7789ae27a883e09ccf638a0dd6c92307cedf2fd146f170156a4e3ca9f2aa0495"
 metafile = true
@@ -581,6 +591,16 @@ hash = "3f6a217b779aa659e048ae2ccd1f9ce6a5ab5367fc53b6b1a9780fc313f948db"
 metafile = true
 
 [[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "5efd3cf3ce070d55b607d938dae8ecd201ef54ca2def1fa3f316d6247de6ca8d"
+metafile = true
+
+[[files]]
+file = "mods/walkie-talkie.pw.toml"
+hash = "1f976970bc7f5769040d6d5848c5850ccc00191c186240e9abbce3fa348c7a97"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "c9a63c67893610e550c893c89ac485b4b0778ad1783f0e8705a63b458f57e96f"
 metafile = true
@@ -588,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "97f498b07031e2182b35950117c01d2b5be682ad03a12fedb041e739b9dbd0f9"
+metafile = true
+
+[[files]]
+file = "mods/wiretap.pw.toml"
+hash = "539c8940db3ba5f48b75267f7e3b29f965894c2ec7098daab6d5be9fef6380e7"
 metafile = true
 
 [[files]]

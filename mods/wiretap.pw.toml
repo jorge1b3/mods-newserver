@@ -1,0 +1,13 @@
+name = "Wiretap"
+filename = "wiretap-1.20.1-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/q3tICGpu/versions/uTtVzTDf/wiretap-1.20.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "ed8c36729a802360c1cbf2b3fc6ba183795a4c77"
+
+[update]
+[update.modrinth]
+mod-id = "q3tICGpu"
+version = "uTtVzTDf"
