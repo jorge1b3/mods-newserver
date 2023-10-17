@@ -7,12 +7,17 @@ metafile = true
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
-hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
+hash = "ee6f3358b73757ae93672bc34191aed507d620b504f921a6354078c28fb87959"
 metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "e24c9ad5afddd87567697b9609a2f9cc96ddf26aba42a5b6a344d3df53f00c94"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "45232eb26106b93b73217b8a48feff39c491d1e88bc52a1208b628f0a0824c2b"
 metafile = true
 
 [[files]]
@@ -51,6 +56,11 @@ hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "ef6172d77a37b4e0f42eebc40d270174794f8c644fbe40568eea6fdf2bef3d79"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "47336ab62f9f72c14e8b3aec3753aa9594de2bda4e4b84dd0e5295d7efa078de"
 metafile = true
@@ -78,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
@@ -148,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/craftify.pw.toml"
 hash = "b0298caede86c617b24105be126898068a0821c0adec3475e1fde815c4125458"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "16e271347136c50d3ce6b3350dcc558ab2f5b75b60d88c1781c03e619b21858d"
 metafile = true
 
 [[files]]
@@ -341,6 +361,11 @@ hash = "4f2f29677c30fb74f39dc24b22a67c993b1ca2f5b8dbbbdf0fb633e05fbdb981"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "26aff1e433dfa181638cfec3577fa8690472ab89d12c01bbac9cceccf57380aa"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "0fb8cd7655bc07880ed81d7c3077edd3d64968d4c9beae748991c1a5cc88d9e1"
 metafile = true
@@ -456,6 +481,11 @@ hash = "e141a548d9f9332997aad1e17ff6c501fd540d77549fe8673bf9e3c22881da29"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "e51bce9d59f8db31f2730a742b84917a3729388f2fc44e0aa51fa39f9dfb43d5"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
@@ -518,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7789ae27a883e09ccf638a0dd6c92307cedf2fd146f170156a4e3ca9f2aa0495"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "9a9c5788f0f452d6b4295304e482d2b55d9be842359962d2cdaba766ebfa0dd6"
 metafile = true
 
 [[files]]
@@ -598,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/walkie-talkie.pw.toml"
 hash = "1f976970bc7f5769040d6d5848c5850ccc00191c186240e9abbce3fa348c7a97"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "5e515a1ac42b4b9c571a248f3a0b872aa6b212320e1207575359383cff70ba7c"
 metafile = true
 
 [[files]]

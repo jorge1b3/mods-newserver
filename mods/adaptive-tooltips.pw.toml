@@ -7,6 +7,12 @@ url = "https://cdn.modrinth.com/data/wFv8yCxM/versions/MgbaLEPy/AdaptiveTooltips
 hash-format = "sha1"
 hash = "2ff512a70c437c20523de01ea95b6fc9b164a5c0"
 
+[option]
+optional = true
+default = false
+description = "adapta el tamaño del tooltil de texto"
+
+
 [update]
 [update.modrinth]
 mod-id = "wFv8yCxM"
