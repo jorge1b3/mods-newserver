@@ -611,11 +611,6 @@ hash = "97f498b07031e2182b35950117c01d2b5be682ad03a12fedb041e739b9dbd0f9"
 metafile = true
 
 [[files]]
-file = "mods/wiretap.pw.toml"
-hash = "539c8940db3ba5f48b75267f7e3b29f965894c2ec7098daab6d5be9fef6380e7"
-metafile = true
-
-[[files]]
 file = "mods/wizards.pw.toml"
 hash = "42b7a26826ae504ae608952da6700bb3e8a87490f23e177ba99c1963ce86fcda"
 metafile = true
