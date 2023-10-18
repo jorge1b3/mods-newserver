@@ -9,7 +9,7 @@ hash = "e65247d4b2ed0f82fc193366ca9d82f8f9ac6f85"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Agrega sonidos ambientales"
 
 [update]

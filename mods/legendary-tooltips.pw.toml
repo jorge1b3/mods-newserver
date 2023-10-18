@@ -9,7 +9,7 @@ hash = "f63050d83d5c10fc18bf64a61e741d42cd45e20b"
 
 [option]
 optional = true
-default = false
+default = true
 description = "cambia el menú de información de los items"
 
 [update]

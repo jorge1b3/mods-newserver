@@ -226,6 +226,11 @@ hash = "1534cc48fe10f96a488339c716e8e8b2b639cf9355b8949e09fa264991f16432"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "eb06614e937de69bfec8712545a8f23bb1e87fc72df26d114197e24fbe5981d3"
 metafile = true
@@ -433,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "08c43279b00a5331de940e243d85ee91b047b501cffb455dea2ce4ceb5336bd1"
+metafile = true
+
+[[files]]
+file = "mods/notebook.pw.toml"
+hash = "b75df70741017dd124bc24a9923da2376819a41bf50ae39870a5290fef604e04"
 metafile = true
 
 [[files]]

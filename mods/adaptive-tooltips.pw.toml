@@ -10,7 +10,7 @@ hash = "2ff512a70c437c20523de01ea95b6fc9b164a5c0"
 [option]
 optional = true
 default = false
-description = "adapta el tamaño del tooltil de texto"
+description = "adapta el tamaño del tooltil de texto. Usar este si legendary no sirve"
 
 
 [update]
