@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
-hash = "ee6f3358b73757ae93672bc34191aed507d620b504f921a6354078c28fb87959"
+hash = "6cbeafc8ea9823063d44c678d92362f698eacdac1f8fc9a3d64de38811c17650"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "45232eb26106b93b73217b8a48feff39c491d1e88bc52a1208b628f0a0824c2b"
+hash = "6309b7801adf18f6fc48de7e006508db2aaab82e8d7c56946214bc8f92065303"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "26aff1e433dfa181638cfec3577fa8690472ab89d12c01bbac9cceccf57380aa"
+hash = "45cc7cf91a5e9ff3df29b8d3ffc63713717afd403770d6535d79ca4815abe70a"
 metafile = true
 
 [[files]]
