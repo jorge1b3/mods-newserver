@@ -10,7 +10,7 @@ hash = "338d922ec28c8ccd24e2387de29f53987145485a"
 [option]
 optional = true
 default = false
-description = "Mod de shaders. Desactivar sodium"
+description = "Permite usar los shaders de optifine en fabric"
 
 [update]
 [update.modrinth]

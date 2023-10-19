@@ -10,7 +10,7 @@ hash = "8397ccb8afcf16e7f27e5f0d5ca5c2346ee5330d"
 [option]
 optional = true
 default = true
-description = "agrega animaciones al juego"
+description = "agrega animaciones variadas a acciones del jugador en minecraft"
 
 [update]
 [update.modrinth]

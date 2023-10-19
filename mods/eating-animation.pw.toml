@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/OcHlWpeQ/eating-animation
 hash-format = "sha1"
 hash = "5afcee5d75f086d85758e975b4a5964f1166c3cd"
 
+[option]
+optional = true
+default = true
+description = "Mejora las animaciones de comida en el juego, y hace que se vean en multiplayer"
+
 [update]
 [update.modrinth]
 mod-id = "rUgZvGzi"

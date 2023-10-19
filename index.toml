@@ -6,6 +6,11 @@ hash = "9262ce5fb026d9de1f837e1f4d969653789682a59c6513df3799f0c68b641163"
 metafile = true
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "e674556147574bb83cb71b4578cf7b9563130668f440ae475a98505185e2110c"
+metafile = true
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "6cbeafc8ea9823063d44c678d92362f698eacdac1f8fc9a3d64de38811c17650"
 metafile = true
@@ -22,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+hash = "5a0e7563ebbf2f1a927d4d8dcfed22bc07cf90f73c5c1bc05bcff50e7d5fce82"
 metafile = true
 
 [[files]]
@@ -56,6 +61,11 @@ hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "9b095133e6017847e811b2b889f4132f010ea0b005e2998863325afaa41767bc"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "ef6172d77a37b4e0f42eebc40d270174794f8c644fbe40568eea6fdf2bef3d79"
 metafile = true
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/better-spawner-control.pw.toml"
 hash = "3c5b0d3ebfef4b6887e537505f648dbbf4c63da91ebbb724ae5cdb2854ad9308"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
 
 [[files]]
@@ -196,6 +211,11 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
+file = "mods/displaycase.pw.toml"
+hash = "53bef7ec144483290461739190959b0d241f9c83d11aeb46391cb2789b259ba2"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
@@ -212,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "b877e1471ac8eb9933a9c8c2529748b5a2ab05e63eaf564f63624288a18c3429"
+hash = "56725569f5ab8d98b0b400e9182629cd9f15e7a506814a846fd4f3ea17e8866e"
 metafile = true
 
 [[files]]
@@ -276,6 +296,11 @@ hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
@@ -321,6 +346,16 @@ hash = "a4d47f10df4769734a850e6a2cd7342802f92f5e269b27464c86cfd0b5a2182f"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "35e2d7854a5fc51cfa45781aa632f09756ae80ed4e5063350456c75b013fb487"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
@@ -332,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "84a6342a36cbdbf12c0fd44856243eb92e14828c917a6aa3bff3ed90012c5c5a"
+hash = "44ddf50a671c45149d9bcf0bf13dc5bd081f9e8354fdec0bc5325ed716840601"
 metafile = true
 
 [[files]]
@@ -363,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "4f2f29677c30fb74f39dc24b22a67c993b1ca2f5b8dbbbdf0fb633e05fbdb981"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "6d57088272ee39aa4dc9173b06435a93107aa432a5c124faaf4ae7a2432d1cd4"
 metafile = true
 
 [[files]]
@@ -426,6 +466,11 @@ hash = "b903976c1e5c36f0eb88b3dca5f615a538f680f5d3d12ff08f544ce2299206c6"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d5e10e48a2f8359ccf90c301ac68e2cf187d20221474c6887548b794c82dca4e"
 metafile = true
@@ -437,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "08c43279b00a5331de940e243d85ee91b047b501cffb455dea2ce4ceb5336bd1"
+hash = "d11e3f0231fb2afff565cf21dcbf583168c7264dd2a10e28c5ab5f3af0683917"
 metafile = true
 
 [[files]]
@@ -493,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "e51bce9d59f8db31f2730a742b84917a3729388f2fc44e0aa51fa39f9dfb43d5"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
 metafile = true
 
 [[files]]
@@ -581,6 +631,11 @@ hash = "dfd24641cd47c66622070f4f07b252e4c6af14481a0034f25d102ae5e8d4dcb6"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "271e6d2d1b95c6d7e90a595328e5724819fc118d506d2bbbdc349ab592deadfe"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "29067018aeb34e9233d75a81c46fbd4fb041acf0b9cd11228d722f14f6f04251"
 metafile = true
@@ -618,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-chess.pw.toml"
+hash = "f20ef1e3278802ac298a66409f7fd3fbc08260a511d9fc28978da14347ad940b"
 metafile = true
 
 [[files]]
