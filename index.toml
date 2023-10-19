@@ -296,6 +296,11 @@ hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "ccffb0cc8ebbed38e43c980d083b6ff940ff7c43a7fc40af4d0dd15827d78f30"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
