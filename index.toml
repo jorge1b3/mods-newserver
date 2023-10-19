@@ -471,11 +471,6 @@ hash = "b903976c1e5c36f0eb88b3dca5f615a538f680f5d3d12ff08f544ce2299206c6"
 metafile = true
 
 [[files]]
-file = "mods/more-mob-variants.pw.toml"
-hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d5e10e48a2f8359ccf90c301ac68e2cf187d20221474c6887548b794c82dca4e"
 metafile = true
@@ -637,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations.pw.toml"
-hash = "271e6d2d1b95c6d7e90a595328e5724819fc118d506d2bbbdc349ab592deadfe"
+hash = "2adf3fa483bee30c69da80b970e19c03260157c6bdb01a80b8d0be3cca5e30c7"
 metafile = true
 
 [[files]]

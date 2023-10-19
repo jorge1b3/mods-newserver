@@ -10,7 +10,7 @@ hash = "ef71e4ecc0dc62039f98dd42e1a6df56d9f08ebb"
 [option]
 optional = true
 default = false
-description = "Cambia la animación de spawn de los mountruos. Los hace más épicos"
+description = "Cambia la animación de spawn de los mountruos."
 
 [update]
 [update.modrinth]
