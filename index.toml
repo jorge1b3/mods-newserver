@@ -446,6 +446,11 @@ hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
+metafile = true
+
+[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "5e928243850d6243c5649cff06156cdb5428d064faec0233a195c0944e05d288"
 metafile = true
@@ -493,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/numeral-ping.pw.toml"
 hash = "16d6e1de0555012ce395ef28bc100932cee09f17c8fa6fb1006b3625869dd6f7"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "d44934b78bbe0f5041328d04980a73d15237d24484c703228b875f5b6ce2777f"
 metafile = true
 
 [[files]]
