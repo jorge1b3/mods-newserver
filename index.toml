@@ -576,6 +576,11 @@ hash = "e27debdf506bd96a4d44bda0306f5a3fbe337a1c3564cc180fb3266c2ef3333f"
 metafile = true
 
 [[files]]
+file = "mods/reciperemover.pw.toml"
+hash = "cf0cff20f640fba8ea19093c3ef7719d09cdf1cf9b4b8a66a3f9440ecccc8125"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
