@@ -586,11 +586,6 @@ hash = "e27debdf506bd96a4d44bda0306f5a3fbe337a1c3564cc180fb3266c2ef3333f"
 metafile = true
 
 [[files]]
-file = "mods/reciperemover.pw.toml"
-hash = "cf0cff20f640fba8ea19093c3ef7719d09cdf1cf9b4b8a66a3f9440ecccc8125"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
@@ -781,11 +776,6 @@ hash = "58de55cfb9a33cb71eb7a50a55d6fdd9cc970fd866e603ab5373c9c3087a6d84"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-hash = "da17fac1fbc09b0381656fbbdea25bcd651ad568aa8ad69e58d4362a60f16385"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
 hash = "6253563e28616a16656b12762f897d6007ab19d27e7330030bf9c5af65e3941b"
 metafile = true
@@ -793,11 +783,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "2bb58b3921466f6f40b48830415c2e8b6bdacd3b126706ff141014004dad815f"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
 metafile = true
 
 [[files]]
