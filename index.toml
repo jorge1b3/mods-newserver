@@ -486,6 +486,11 @@ hash = "d5e10e48a2f8359ccf90c301ac68e2cf187d20221474c6887548b794c82dca4e"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "501049b58f464bd8d85e288627991a4013fd4219efd6e75111bbcd616a03231d"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
