@@ -1,18 +1,17 @@
 name = "Nvidium"
-filename = "nvidium-0.2.1-beta.jar"
+filename = "nvidium-0.2.2-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/ysJnbtbv/nvidium-0.2.1-beta.jar"
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/LTv8XrYG/nvidium-0.2.2-beta.jar"
 hash-format = "sha1"
-hash = "8716d4dd8f57aacd1585129c998fea5b99c9c8a1"
-
-[option]
-optional = true
-default = false
-description = "Agrega extenciones que optimizan el renderizado en trajetas de nvidia. No funciona con shaders"
+hash = "94ca6818b842e836cfa9e35771200e098e1ed856"
 
 [update]
 [update.modrinth]
 mod-id = "SfMw2IZN"
-version = "ysJnbtbv"
+version = "LTv8XrYG"
+
+[option]
+optional = true
+description = "Agrega extenciones que optimizan el renderizado en trajetas de nvidia. No funciona con shaders"
