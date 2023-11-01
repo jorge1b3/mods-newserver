@@ -96,11 +96,6 @@ hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
 metafile = true
 
 [[files]]
-file = "mods/betternether.pw.toml"
-hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
@@ -783,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "2bb58b3921466f6f40b48830415c2e8b6bdacd3b126706ff141014004dad815f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
 metafile = true
 
 [[files]]
